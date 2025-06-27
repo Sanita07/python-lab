@@ -53,6 +53,5 @@ for key in d:
   i+=1
 d
 
-
-
-1
+for i in d:
+    print(i,d[i])
